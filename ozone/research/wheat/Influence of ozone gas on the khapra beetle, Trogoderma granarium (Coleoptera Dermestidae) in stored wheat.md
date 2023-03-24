@@ -1,3 +1,9 @@
+---
+tags: wheat storage beetle khapra grain T._granarium Trogoderma_granarium Coleoptera_Dermestidae
+type: research
+date: 2023-03-23
+---
+
 https://link.springer.com/article/10.1007/s13355-023-00821-0
 
 ![[s13355-023-00821-0.pdf]]

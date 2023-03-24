@@ -11,28 +11,146 @@
             "id": "f07878e99ed02296",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "research/_assets/foods-12-00987-v2.pdf"
+              }
+            }
+          },
+          {
+            "id": "628b54ae61c0e7b8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "research/wheat/Influence of ozone gas on the khapra beetle, Trogoderma granarium (Coleoptera Dermestidae) in stored wheat.md",
+                "file": "research/dairy/The Use of Ozone Technology An Eco Friendly Method for the Sanitization of the Dairy Supply Chain.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "326442c693a20e4f",
+            "id": "c95e270b88f925cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/generation/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
+                "file": "dairy/market.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98aa992c24941281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/market.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c30251a59a8d5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b565e50b3e87fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f4d093dc97a7ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/legislation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fc0da77411f6603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d030bc214f07f08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ozone/Ozone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ab2cd3e5285fb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d30e528d6e1de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/farming/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f7d38afa54310b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/surfaces and equipment/_index.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -64,7 +182,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -98,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/generation/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
+                "file": "dairy/surfaces and equipment/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/generation/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
+                "file": "dairy/surfaces and equipment/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +256,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/generation/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md"
+                "file": "dairy/surfaces and equipment/_index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,18 +278,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "326442c693a20e4f",
+  "active": "a5f7d38afa54310b",
   "lastOpenFiles": [
+    "dairy/farming/_index.md",
+    "dairy/surfaces and equipment/_index.md",
+    "dairy/surfaces and equipment",
+    "dairy/farming",
+    "dairy/problems.md",
+    "dairy/solutions.md",
+    "dairy/wastewater.md",
+    "dairy/canvas/dairy supply chain.canvas",
+    "dairy/market.md",
+    "dairy/legislation.md",
+    "dairy/Alternative.md",
+    "dairy/_master.md",
+    "dairy/canvas",
+    "ozone/Ozone.md",
+    "ozone",
+    "general",
+    "dairy/market/Untitled.md",
+    "dairy/market",
+    "dairy",
+    "research/dairy/The Use of Ozone Technology An Eco Friendly Method for the Sanitization of the Dairy Supply Chain.md",
+    "market/dairy",
+    "market",
     "research/wheat/Influence of ozone gas on the khapra beetle, Trogoderma granarium (Coleoptera Dermestidae) in stored wheat.md",
     "research/generation/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
-    "research/_assets/article_2023_1_83.pdf",
-    "research/generation",
-    "research/_assets/s13355-023-00821-0.pdf",
-    "research/_assets",
-    "research/wheat",
-    "research",
-    "ozono.md",
-    "ozono",
-    "ozone"
+    "research/_assets/foods-12-00987-v2.pdf",
+    "2023-03-24.md",
+    "ozono.md"
   ]
 }
