@@ -1,3 +1,6 @@
+---
+tags: todo
+---
 
 ## traditional methods
 
@@ -11,7 +14,6 @@
 
 Many studies evaluated the use of ozonated water and gas to clean and sanitize equipment and different surfaces in dairy locations [55], (Table 3).
 
-- Guzel-Seydim et al. [88] evaluated the use of ozone for the treatment of stainless-steel surfaces to remove milk residues, demonstrating its greater effectiveness compared to the traditional treatment with hot water at 40 C. 15 min treatments using either warm water (40 C) or ozonated cold water (10 C) were conducted. The results show that Chemical Oxygen Demand (C.O.D.) values are reduced by 84% (ozone treatment) against 51% (hot water treatment). Furthermore, many researchers have evaluated the effectiveness of ozone against microorganisms that can colonize metal surfaces. 
 - Greene et al. [89] studied the effect of ozonated deionized water against psychrophilic contaminating microflora (Pseudomonas fluorescens and Alcaligenes faecalis) on stainless steel plates, showing that a 10-min exposure with a concentration of 0.5 ppm decreased the microbial growth by more than 4 log10. For the experimentation, stainless steel plates were incubated in UHT pasteurized milk and inoculated with pure cultures of Pseudomonas fluorescens (ATCC 949) or Alcaligenes faecalis (ATCC 337). Since these are metal surfaces, the corrosive power of ozone must always be considered. The use of ozonated water is recommended, instead of hot water and chlorine, when the surfaces of the milk processing equipment are not damaged. Recently, the potential of disinfection effectiveness of single and synergistic ozone (10 ppm for 15 min) and UVC (1 cm or 15.56 mW cm􀀀2 for 15 min) treatment for the sterilization of bacteria and fungi (Escherichia coli, Staphylococcus aureus, Candida albicans, and Aspergillus fumigatus) was studied on different material surfaces (stainless steel, polymethyl methacrylate, copper, surgical facemask, denim, and a fabric) [90].
 - In the work of Dosti et al. [91], fresh 24-h bacterial cultures were treated with ozone (0.6 ppm for 1 min and 10 min), chlorine (100 ppm for 2 min), or heat (77  1 C for 5 min), showing its effectiveness against food spoilage microorganism in synthetic broth. The bacterial biofilm on the metal coupons was significantly reduced by ozone and chlorine, but with no significant difference between ozone and chlorine, except for P. putida (ozone was more effective than chlorine).
 - Greene et al. [47] observed that 0.4–0.5 ppm of ozone, pulsed into water at 21–23 C for 20 min per day over a 7-day period, caused a certain degree of weight loss of all materials tested (i.e., aluminum, copper, stainless steel, and carbon steel), but only weight loss for carbon steel was significant. Therefore, special attention is required when the treatment is used for dairy chilling water systems with copper or carbon steel parts.
