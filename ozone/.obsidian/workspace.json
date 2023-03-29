@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a34c8317c6ffcd5",
+            "id": "568f4e16b3e00ae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,113 @@
             }
           },
           {
-            "id": "568f4e16b3e00ae9",
+            "id": "77749f695a855e40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legislation/_index.md",
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74bf86cbf0ae9e7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "research/_assets/2018-marilena-marino-michela-maifreni-anna-baggio-nadia-innocente.pdf"
+              }
+            }
+          },
+          {
+            "id": "f42031d7e3e6b2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a83cc81bf8006fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "355106e033fa736e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9123430c8c03ca19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b9e85033e7e584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e55dfe5bd611160e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f0c53d200acca3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/abstracts/Comparative study on the efficacy of sodium hypochlorite, aqueous ozone, and peracetic acid in the elimination of Salmonella from cattle manure contaminated various surfaces supported by Bayesian analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "legislation/_index.md",
+                "file": "dairy/_master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "legislation/_index.md",
+                "file": "dairy/_master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "legislation/_index.md"
+                "file": "dairy/_master.md"
               }
             }
           }
@@ -160,38 +254,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39e22186d8585a41",
+  "active": "9123430c8c03ca19",
   "lastOpenFiles": [
-    "legislation",
+    "research/_assets/2018-eglezos-et-al.pdf",
+    "research/abstracts/2018-eglezos-et-al.md",
+    "dairy/_master.md",
+    "research/abstracts/2014-tachikawa-et-al.md",
+    "research/abstracts/2018-shelobolina-et-al.md",
+    "research/_assets/2018-shelobolina-et-al.pdf",
+    "research/abstracts/Inactivation of Foodborne Bacteria Biofilms by Aqueous and Gaseous Ozone.md",
+    "research/abstracts/Bactericidal Effects of High Airborne Ozone Concentrations on Escherichia coli and Staphylococcus aureus.md",
+    "research/abstracts/Ozone in dairy chilling water systems effect on metal materials.md",
+    "research/abstracts/Application of Ultraviolet-C Radiation and Gaseous Ozone for Microbial Inactivation on Different Materials.md",
+    "research/abstracts/A comparison of ozonation and chlorination for the disinfection of stainless steel surfaces.md",
+    "research/abstracts/Removal of Dairy Soil from Heated Stainless Steel Surfaces Use of Ozonated Water as a Prerinse.md",
+    "research/_assets/2018-marilena-marino-michela-maifreni-anna-baggio-nadia-innocente.pdf",
+    "research/abstracts/Biofilm development in food processing facilities is prevented by using common chemical sanitizers, but their use has some disadvantages, such as damaging environmental impacts and harmful consequences for human health.md",
+    "research/_assets/2019-Ameer-Megahed-Brian-Aldridge-James-Lowe.pdf",
+    "research/abstracts/Comparative study on the efficacy of sodium hypochlorite, aqueous ozone, and peracetic acid in the elimination of Salmonella from cattle manure contaminated various surfaces supported by Bayesian analysis.md",
+    "research/abstracts/The microbial killing capacity of aqueous and gaseous ozone on different surfaces contaminated with dairy cattle manure.md",
+    "research/abstracts/The Use of Ozone Technology An Eco Friendly Method for the Sanitization of the Dairy Supply Chain.md",
+    "research/_assets/2018-Ameer-Megahed-Brian-Aldridge-James-Lowe.pdf",
+    "research/abstracts/Influence of ozone gas on the khapra beetle, Trogoderma granarium (Coleoptera Dermestidae) in stored wheat.md",
+    "research/abstracts/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
+    "research/_assets/PIIS0022030293777024.pdf",
+    "research/_assets/s13355-023-00821-0.pdf",
+    "research/_assets/PIIS0022030200750612.pdf",
+    "research/_assets/PIIS0022030200750612 1.pdf",
+    "research/_assets/acsomega.2c05264.pdf",
+    "legislation/_index.md",
+    "ozone/Ozone.md",
+    "dairy/market.md",
+    "dairy/solutions.md",
+    "dairy/problems.md",
     "dairy/farming/_index.md",
     "dairy/surfaces and equipment/_index.md",
-    "dairy/_master.md",
-    "research/abstracts/A comparison of ozonation and chlorination for the disinfection of stainless steel surfaces.md",
-    "research/abstracts/Influence of ozone gas on the khapra beetle, Trogoderma granarium (Coleoptera Dermestidae) in stored wheat.md",
-    "research/abstracts/Removal of Dairy Soil from Heated Stainless Steel Surfaces Use of Ozonated Water as a Prerinse.md",
-    "research/abstracts/The Use of Ozone Technology An Eco Friendly Method for the Sanitization of the Dairy Supply Chain.md",
-    "research/abstracts/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
     "research/intro/Untitled.md",
-    "research/_assets/PIIS0022030200750612 1.pdf",
-    "research/_assets/PIIS0022030200750612.pdf",
-    "dairy/solutions.md",
-    "research/abstracts",
     "dairy/wastewater.md",
-    "dairy/problems.md",
-    "dairy/market.md",
-    "legislation/_index.md",
-    "research/_assets/foods-12-00987-v2.pdf",
-    "dairy/surfaces and equipment",
-    "dairy/farming",
-    "dairy/canvas/dairy supply chain.canvas",
-    "dairy/Alternative.md",
-    "dairy/canvas",
-    "ozone/Ozone.md",
-    "ozone",
-    "general",
-    "dairy/market/Untitled.md",
-    "dairy/market",
-    "2023-03-24.md",
-    "ozono.md"
+    "dairy/canvas/dairy supply chain.canvas"
   ]
 }

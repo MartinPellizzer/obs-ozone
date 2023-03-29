@@ -1,10 +1,10 @@
 ---
 tags: todo
 date: 
+author: Guzel-Seydim al., 2000
 ---
 
-![[PIIS0022030200750612 1.pdf]]
-
+![[PIIS0022030200750612.pdf]]
 ## Abstract
 
 Square (2.54 x 2.54 cm2 ) 304 stainless steel metal plates were cleaned, passivated, and soiled by autoclaving (121°C at 15 psi for 15 min) with reconstituted nonfat dry milk (20% solids). Fifteen-minute treatments using either warm water (40°C) or ozonated cold water (10°C) were conducted to compare prerinse cleaning potential of soiled metal plate. The chemical oxygen demand determination was performed on extracted organic material from treated metal plates. Results indicated that the ozone treatment removed 84% of soil from metal plates versus 51% soil removal by the warm water treatment, but the effectiveness of the two treatments did not differ (P > 0.05). Cleaning effects were visualized using scanning electron microscopy at 200× and 2000× magnification. The amount of soil film present on stainless steel metal surfaces was visibly lower on ozonated treatments versus on warm water treatments. (Key words: ozone, sanitation, dairy, chemical oxygen demand) Abbreviation key: ddH2O = distilled and deionized water; COD = chemical oxygen demand.
