@@ -2,18 +2,16 @@
 tags: todo
 ---
 
+## Applications:
+- [Surfaces and Equipment](obsidian://open?vault=ozone&file=dairy%2Fsurfaces%20and%20equipment%2F_index)
+
+
+
+## Studies:
+- [Guzel-Seydim al., 2000](obsidian://open?vault=ozone&file=research%2Fabstracts%2FRemoval%20of%20Dairy%20Soil%20from%20Heated%20Stainless%20Steel%20Surfaces%20Use%20of%20Ozonated%20Water%20as%20a%20Prerinse)
+	- 
+
 ## Studies
-
-Indoor air in the dairy industry constitutes a source or a vehicle of microbial contamination,
-causing food safety and product shelf-life problems. Masotti et al. [100] monitored
-the air microbial load in the dairy plant and evaluated the impact of air disinfection through
-ozonation or chemical aerosolization by hydrogen peroxide. Ozonated air had a constant
-flow rate of 40 L min􀀀1, and it generated 1.5 g ozone per hour (11–12 p.m. and 1–3 a.m.
-from Friday to Sunday). Hydrogen peroxide aerosolization was realized producing particles
-in the range of 5–15 m at a concentration of 5–15% for 16 and 20 min. Both techniques
-were effective against airborne microorganisms.
-
-
 
 | Treatments | Target | Result | References |
 | ---        | ---    | ---    | ---        |

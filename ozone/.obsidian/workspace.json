@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/abstracts/2020-masotti-et-al.md",
+                "file": "dairy/surfaces and equipment/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "dairy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/abstracts/2020-masotti-et-al.md",
+                "file": "dairy/surfaces and equipment/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/abstracts/2020-masotti-et-al.md",
+                "file": "dairy/surfaces and equipment/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/abstracts/2020-masotti-et-al.md"
+                "file": "dairy/surfaces and equipment/_index.md"
               }
             }
           }
@@ -292,9 +292,11 @@
   },
   "active": "04d562ce27a7d705",
   "lastOpenFiles": [
-    "dairy/_master.md",
-    "research/abstracts/2013-greene-et-al.md",
+    "dairy/_index.md",
+    "dairy/surfaces and equipment/_index.md",
+    "dairy/farming/_index.md",
     "research/abstracts/2020-masotti-et-al.md",
+    "research/abstracts/2013-greene-et-al.md",
     "research/abstracts/2014-singla-et-al.md",
     "research/abstracts/2020-shao-et-al.md",
     "research/abstracts/Removal of Dairy Soil from Heated Stainless Steel Surfaces Use of Ozonated Water as a Prerinse.md",
@@ -326,8 +328,6 @@
     "dairy/market.md",
     "dairy/solutions.md",
     "dairy/problems.md",
-    "dairy/farming/_index.md",
-    "dairy/surfaces and equipment/_index.md",
     "dairy/canvas/dairy supply chain.canvas"
   ]
 }
