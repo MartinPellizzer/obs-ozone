@@ -3,7 +3,11 @@ tags: todo
 author: Greene et al., 1993
 ---
 
-![[PIIS0022030293777024.pdf]]
+# A comparison of ozonation and chlorination for the disinfection of stainless steel surfaces
+
+link: https://linkinghub.elsevier.com/retrieve/pii/S0022030293777024
+
+![[2013-greene-et-al.pdf]]
 
 ## Highlights
 

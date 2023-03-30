@@ -90,6 +90,42 @@
             }
           },
           {
+            "id": "dae389baef409033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a65906e7c9225a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/_master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d562ce27a7d705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/abstracts/2020-masotti-et-al.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d2b9e85033e7e584",
             "type": "leaf",
             "state": {
@@ -126,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -192,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "research/abstracts/2020-masotti-et-al.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dairy/_master.md",
+                "file": "research/abstracts/2020-masotti-et-al.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dairy/_master.md"
+                "file": "research/abstracts/2020-masotti-et-al.md"
               }
             }
           }
@@ -254,11 +290,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9123430c8c03ca19",
+  "active": "04d562ce27a7d705",
   "lastOpenFiles": [
+    "dairy/_master.md",
+    "research/abstracts/2013-greene-et-al.md",
+    "research/abstracts/2020-masotti-et-al.md",
+    "research/abstracts/2014-singla-et-al.md",
+    "research/abstracts/2020-shao-et-al.md",
+    "research/abstracts/Removal of Dairy Soil from Heated Stainless Steel Surfaces Use of Ozonated Water as a Prerinse.md",
     "research/_assets/2018-eglezos-et-al.pdf",
     "research/abstracts/2018-eglezos-et-al.md",
-    "dairy/_master.md",
     "research/abstracts/2014-tachikawa-et-al.md",
     "research/abstracts/2018-shelobolina-et-al.md",
     "research/_assets/2018-shelobolina-et-al.pdf",
@@ -266,8 +307,6 @@
     "research/abstracts/Bactericidal Effects of High Airborne Ozone Concentrations on Escherichia coli and Staphylococcus aureus.md",
     "research/abstracts/Ozone in dairy chilling water systems effect on metal materials.md",
     "research/abstracts/Application of Ultraviolet-C Radiation and Gaseous Ozone for Microbial Inactivation on Different Materials.md",
-    "research/abstracts/A comparison of ozonation and chlorination for the disinfection of stainless steel surfaces.md",
-    "research/abstracts/Removal of Dairy Soil from Heated Stainless Steel Surfaces Use of Ozonated Water as a Prerinse.md",
     "research/_assets/2018-marilena-marino-michela-maifreni-anna-baggio-nadia-innocente.pdf",
     "research/abstracts/Biofilm development in food processing facilities is prevented by using common chemical sanitizers, but their use has some disadvantages, such as damaging environmental impacts and harmful consequences for human health.md",
     "research/_assets/2019-Ameer-Megahed-Brian-Aldridge-James-Lowe.pdf",
@@ -277,7 +316,7 @@
     "research/_assets/2018-Ameer-Megahed-Brian-Aldridge-James-Lowe.pdf",
     "research/abstracts/Influence of ozone gas on the khapra beetle, Trogoderma granarium (Coleoptera Dermestidae) in stored wheat.md",
     "research/abstracts/Ozone Generator Based On Surface Dielectric Barrier Discharge With Pulse Power Supply.md",
-    "research/_assets/PIIS0022030293777024.pdf",
+    "research/_assets/2013-greene-et-al.pdf",
     "research/_assets/s13355-023-00821-0.pdf",
     "research/_assets/PIIS0022030200750612.pdf",
     "research/_assets/PIIS0022030200750612 1.pdf",
@@ -289,8 +328,6 @@
     "dairy/problems.md",
     "dairy/farming/_index.md",
     "dairy/surfaces and equipment/_index.md",
-    "research/intro/Untitled.md",
-    "dairy/wastewater.md",
     "dairy/canvas/dairy supply chain.canvas"
   ]
 }
