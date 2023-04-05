@@ -2,8 +2,24 @@
 tags: todo
 ---
 
-## Applications:
-- [Surfaces and Equipment](obsidian://open?vault=ozone&file=dairy%2Fsurfaces%20and%20equipment%2F_index)
+## Phases
+1. dairy cattle breeding
+2. raw material harvest
+3. storing
+4. transportation
+5. quality control - lab testign
+6. product processing and treatment of waste product
+7. product packaging
+
+## Applications
+- ozone technology in dairy farming
+- [surface and equipment](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fsurface%20and%20equipment)
+- [milk](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fmilk)
+- [wastewater](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fwastewater)
+- [cheese-making](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fcheese-making) 
+- storage/maturation
+
+## Criticality: the impact of oxidation and sensory alterations
 
 
 

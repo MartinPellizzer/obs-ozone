@@ -1,8 +1,6 @@
----
-tags: todo
----
+## Legend
 
-
+hydrogen peroxide (HP), ozone air (OA), ozone water (OW)
 
 ## Ozone
 - pros
@@ -122,28 +120,26 @@ tags: todo
 	- E: ozone gas 12 months
 	- R: (P < 0.001) from 15.0% to 1.67%
 	- O: good and not deleterious effects noted
+- [Shao et al. (2020)](obsidian://open?vault=ozone&file=research%2Fabstracts%2F2020-shao-et-al)
+	- P: biofilm of Staphylococcus aureus and Salmonella spp.
+	- T: stainless steel surfaces
+	- E: acidic electrolyzed water (AEW), OW 16mg L-1 for 20 min, or US (40 kHz) alone
+	- R: AEW 3.0 log, OW 0.8 log, US 0.8 log --- AEW + US 4.8 log 
+	- O: ozone alone may not be enough for biofilm :(
+- [Singla et al. (2013)](https://www.sciencedirect.com/science/article/abs/pii/S1389172314000024?via%3Dihub)
+	- P: biofilm salmonella typhimurium ST1 and ST2
+	- T: PVC pipes, polyethylene bags, plastic surfaces and fresh produce, carrot, turnip
+	- E: malic acid and ozone
+	- R: malic acid alone was not enough, malic + ozone 80% reduction after 20h
+	- O: ozone alone not enough?
+- [Masotti et al. (2019)](https://linkinghub.elsevier.com/retrieve/pii/S0956713518305231)
+	- P: 
+		- air microbal load (bacteria, moulds, yeasts)
+		- Cladosporium spp., Alternaria spp., and Penicillium spp.
+		- yeast: Cryptococcus spp., Debaryomyces spp., Bulleromyces spp., and Sporobolomyces spp.
+	- T: cheese making, storage, packaging areas
+	- E: 
+		- OA, flow rate 40L min-1, 1.5g x hour (2 hours x day)
+		- HP, 5-15um at 5-15% for 20 min
+	- R: HP effective, OA effective
 
-In a study of a cheese production plant, the gaseous ozonation of 2 ppm was provided
-during a weekend for 15 min (first treatment) and for 120 min (second treatment), when
-staff were not present. Testing for L. monocytogenes was carried out for a total of 360 environmental
-samples, over a period of 12 months, in 15 areas before and 15 areas after ozonation:
-there was a significant reduction in L. monocytogenes isolations from 15.0% in pre-zoning
-samples to 1.67% in post-ozonation samples in all areas, to include the ozonation regime in
-the hygiene-health program. No negative effects of ozonation treatment were noted on the
-surfaces and equipment [97].
-
-| P | T | W/A | S/D | Ozone PPM | Contact Time | Log Reduction | Source |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Bf Pseudomonas fluorescens | AISI 304 SS | W | S | 0.5 | 20 min | 1.61-2.14 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Pseudomonas fluorescens | AISI 304 SS | W | D | 0.5 | 20 min | 3.26-5.24 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Pseudomonas fluorescens | AISI 304 SS | A | - | 0.2 | 60 min | 2.01–2.46 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Pseudomonas fluorescens | AISI 304 SS | A | - | 20 | 60 min | 5.51 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| bf pseudomonas fluorescens | PL, GL, CR | W | - | 5 | 20 min | effective | [Shelobolina et al. (2018)](https://www.tandfonline.com/doi/full/10.1080/08927014.2018.1506023)
-| Bf Staphylococcus aureus | AISI 304 SS | W | S | 0.5 | 20 min | 1.61-2.14 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Staphylococcus aureus | AISI 304 SS | W | D | 0.5 | 20 min | 3.26-5.24 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Staphylococcus aureus | AISI 304 SS | A | - | 0.2 | 60 min | 2.01–2.46 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Staphylococcus aureus | AISI 304 SS | A | - | 20 | 20 min | 4.72 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Listeria monocytogenes | AISI 304 SS | W | S | 0.5 | 20 min | 1.61-2.14 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Listeria monocytogenes | AISI 304 SS | W | D | 0.5 | 20 min | 3.26-5.24 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Listeria monocytogenes | AISI 304 SS | A | - | 0.2 | 60 min | 2.01–2.46 | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
-| Bf Listeria monocytogenes | AISI 304 SS | A | - | 20 | 60 min | <10 CFU | [Panebianco et al. (2022)](https://www.mdpi.com/2076-2607/10/1/162) |
