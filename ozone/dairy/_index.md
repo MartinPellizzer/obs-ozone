@@ -2,7 +2,7 @@
 tags: todo
 ---
 
-## Phases
+## phases
 1. dairy cattle breeding
 2. raw material harvest
 3. storing
@@ -11,23 +11,35 @@ tags: todo
 6. product processing and treatment of waste product
 7. product packaging
 
-## Applications
-- ozone technology in dairy farming
-- [surface and equipment](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fsurface%20and%20equipment)
+## applications
+- [surface](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fsurface)
 - [milk](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fmilk)
 - [wastewater](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fwastewater)
-- [cheese-making](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fcheese-making) 
-- storage/maturation
-
-## Criticality: the impact of oxidation and sensory alterations
+- [cheese](obsidian://open?vault=ozone&file=dairy%2Fapplications%2Fcheese) 
 
 
+## traditional sanitization methods
+- hot water
+- chemical products
 
-## Studies:
-- [Guzel-Seydim al., 2000](obsidian://open?vault=ozone&file=research%2Fabstracts%2FRemoval%20of%20Dairy%20Soil%20from%20Heated%20Stainless%20Steel%20Surfaces%20Use%20of%20Ozonated%20Water%20as%20a%20Prerinse)
-	- 
+## ozone benefits
+- reduces costs (in reference to purchase of disinfectants and the use of hot water)
+- reduces environmental impact (as it does not release residues)
 
-## Studies
+## ozone water applications
+- disinfection of animals
+- disinfection of surfaces
+- disinfection of tools
+
+## ozone gas applications
+- sanitization of the air in the stables
+- elimination of bad odors and pathogens in the air (used at low concentrations) [26].
+- sanitization of the pipes that carry the milk from the rooms of miling to collection tanks
+
+## studies
+- Ogata and Nagahata [87] studied its potential in the treatment of bovine mastitis, a problem that afflicts farms, causing important economic losses: according to the researchers, as many as 60% of treated mastitis heals without the use of antibiotics (6–30 mg of ozone).
+
+## studies
 
 | Treatments | Target | Result | References |
 | ---        | ---    | ---    | ---        |

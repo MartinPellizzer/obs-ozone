@@ -8,197 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "568f4e16b3e00ae9",
+            "id": "0eb73c7d3acd0475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77749f695a855e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74bf86cbf0ae9e7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "research/_assets/2018-marilena-marino-michela-maifreni-anna-baggio-nadia-innocente.pdf"
-              }
-            }
-          },
-          {
-            "id": "f42031d7e3e6b2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a83cc81bf8006fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "355106e033fa736e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9123430c8c03ca19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dae389baef409033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8a65906e7c9225a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04d562ce27a7d705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f794c1bd1669c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28dd60505d53b449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/applications/wastewater.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0931afaf818befb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2b9e85033e7e584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e55dfe5bd611160e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dairy/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f0c53d200acca3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/abstracts/Comparative study on the efficacy of sodium hypochlorite, aqueous ozone, and peracetic acid in the elimination of Salmonella from cattle manure contaminated various surfaces supported by Bayesian analysis.md",
+                "file": "dairy/applications/milk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dairy/_index.md",
+                "file": "dairy/applications/milk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dairy/_index.md",
+                "file": "dairy/applications/milk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dairy/_index.md"
+                "file": "dairy/applications/milk.md"
               }
             }
           }
@@ -326,20 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0931afaf818befb5",
+  "active": "0eb73c7d3acd0475",
   "lastOpenFiles": [
-    "dairy/market.md",
-    "dairy/applications/cheese-making.md",
-    "dairy/applications/wastewater.md",
-    "dairy/_index.md",
-    "dairy/solutions.md",
-    "dairy/problems.md",
-    "dairy/wastewater.md",
+    "dairy/applications/cheese.md",
     "dairy/applications/milk.md",
-    "dairy/applications/surface-and-equipment.md",
+    "dairy/applications/wastewater.md",
+    "dairy/applications/surface.md",
+    "dairy/_index.md",
+    "dairy/market.md",
+    "dairy/problems.md",
+    "dairy/side-effects.md",
+    "dairy/solutions.md",
+    "dairy/wastewater.md",
+    "dairy/farming/_index.md",
+    "dairy/applications/storage-maturation.md",
     "dairy/applications",
     "research/abstracts/2020-shao-et-al.md",
-    "dairy/farming/_index.md",
     "research/abstracts/2020-masotti-et-al.md",
     "research/abstracts/2013-greene-et-al.md",
     "research/abstracts/2014-singla-et-al.md",
@@ -357,8 +180,6 @@
     "research/abstracts/Biofilm development in food processing facilities is prevented by using common chemical sanitizers, but their use has some disadvantages, such as damaging environmental impacts and harmful consequences for human health.md",
     "research/_assets/2019-Ameer-Megahed-Brian-Aldridge-James-Lowe.pdf",
     "research/abstracts/Comparative study on the efficacy of sodium hypochlorite, aqueous ozone, and peracetic acid in the elimination of Salmonella from cattle manure contaminated various surfaces supported by Bayesian analysis.md",
-    "research/abstracts/The microbial killing capacity of aqueous and gaseous ozone on different surfaces contaminated with dairy cattle manure.md",
-    "research/abstracts/The Use of Ozone Technology An Eco Friendly Method for the Sanitization of the Dairy Supply Chain.md",
     "research/_assets/2018-Ameer-Megahed-Brian-Aldridge-James-Lowe.pdf",
     "research/_assets/2013-greene-et-al.pdf",
     "research/_assets/s13355-023-00821-0.pdf",
